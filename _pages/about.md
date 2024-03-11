@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Applied Mathematics Ph.D. candidate in the School of Engineering and Applied Sciences (SEAS) at [Harvard University](https://www.seas.harvard.edu), working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#). My main research interests are fairness, information theory, and machine learning applications for the social good. Before joining Harvard, I received an M.s. in Computational Mathematics and Modelling from Instituto de Matemática Pura e Aplicada ([IMPA](https://impa.br/en_US/)) in Brazil. You can find my CV [here](https://drive.google.com/file/d/1ZNTnzffvUldM4G6Ngqj_s4yt9Jt364kM/view?usp=drive_link).
+I am an Applied Mathematics Ph.D. candidate in the School of Engineering and Applied Sciences (SEAS) at [Harvard University](https://www.seas.harvard.edu), working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#). My main research interests are fairness, information theory, and machine learning applications for the social good. Before joining Harvard, I received an M.s. in Computational Mathematics and Modelling from Instituto de Matemática Pura e Aplicada ([IMPA](https://impa.br/en_US/)) in Brazil. You can find my CV [here](https://drive.google.com/file/d/1TfmGCuMJX4KaCJKTUMJA-DwL35Nw5Mnt/view?usp=sharing).
 
 ## Recent announcements
 <span style="color: FireBrick"> 
-May 2023 - I am thrilled to announce that I am joining [IBM Research](https://research.ibm.com) for the summer. 
+March 2024 - I am thrilled to announce that I was selected as an [Apple Scholar](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024)!
+</span> 
+
+<span style="color: FireBrick"> 
+May 2023 - I am happy to announce that I am joining [IBM Research](https://research.ibm.com) for the summer. 
 </span> 
 
 <span style="color: FireBrick"> 
