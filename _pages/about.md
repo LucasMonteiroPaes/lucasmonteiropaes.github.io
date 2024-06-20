@@ -17,6 +17,7 @@ I am spending this summer as a student researcher at [Google DeepMind](https://d
 ## Recent papers
 <span style="color: FireBrick"> 
 April 2023 - Our [paper](https://dl.acm.org/doi/10.1145/3630106.3659036) was accepted at FAccT!
+</span> \
 <span style="font-size:15px">
 In this multidisciplinary paper, we show the prevalence of arbitrary decisions in LLMs trained for content moderation and that these arbitrary decisions disproportionally affect underrepresented communities. Then, we discuss the implications of this finding on (i) freedom of speech, (ii) procedural fairness, and (iii) discrimination.
 </span> 
