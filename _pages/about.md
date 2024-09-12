@@ -54,7 +54,7 @@ This paper aims to understand the conditions under which one can detect fair use
 
 ## Recent announcements
 <span style="color: FireBrick"> 
-March 2024 - I am happy to announce that I am joining [Google DeepMind](https://deepmind.google/) as a student researcher for the summer!
+March 2024 - I am happy to announce that I am joining [Google DeepMind](https://deepmind.google/) as a student researcher!
 </span> 
 
 <span style="color: FireBrick"> 
