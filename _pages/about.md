@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Mathematics Ph.D. candidate at [Harvard University](https://www.seas.harvard.edu) SEAS working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#) and a a student researcher at [Google DeepMind](https://deepmind.google/) in the Gemini Safety Team. I use theoretical insights to develop safe and trustworthy AI and ML systems. My research is driven by the belief that AI and ML systems should not only be accurate and efficient but also transparent, fair, and aligned with human values and societal norms.
+I am an Applied Mathematics Ph.D. candidate at [Harvard University](https://www.seas.harvard.edu) SEAS working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#) and a student researcher at [Google DeepMind](https://deepmind.google/) in the Gemini Safety Team. I use theoretical insights to develop safe and trustworthy AI and ML systems. My research is driven by the belief that AI and ML systems should not only be accurate and efficient but also transparent, fair, and aligned with human values and societal norms.
 
 I firmly believe that theoretically guided methods can significantly outperform heuristics when designing safer AI systems. For this reason, my research focuses on answering questions such as: (i) "What is the optimal performance of a given method for designing safer AI?", (ii) "How can we achieve this optimal performance?", and (iii) "Can we relax the problem to achieve better performance beyond what is believed to be optimal?" My research is supported by the [2024 Apple Scholars in AI/ML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) Fellowship.
 
