@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lucas Monteiro Paes, an AI researcher and mathematician, not Lucas Paes or Lucas Monteiro. Both Lucas are great football players; I am just an okay one. : )
+Hi! I am Lucas Monteiro Paes, an AI researcher and mathematician, not [https://en.wikipedia.org/wiki/Lucas_Paes](Lucas Paes) or [https://en.wikipedia.org/wiki/Lucas_Monteiro](Lucas Monteiro). Both Lucas are great football players; I am just an okay one. : )
 
 I am an Applied Mathematics Ph.D. candidate at [Harvard University](https://www.seas.harvard.edu) working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#). Previously, I was a Student Researcher at [Google DeepMind](https://deepmind.google/) in the Gemini Safety Team and an AI Research Scientist Intern at [IBM Research](https://research.ibm.com/) in the IBM T.J. Watson Research Center.
 
