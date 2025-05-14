@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lucas Monteiro Paes, an AI researcher and mathematician, not [Lucas Paes](https://en.wikipedia.org/wiki/Lucas_Paes) or [Lucas Monteiro](https://en.wikipedia.org/wiki/Lucas_Monteiro). Both Lucas are good football players; I am just an okay one. : )
+Hi! I am Lucas Monteiro Paes, an AI researcher and mathematician.
 
-I am an Applied Mathematics Ph.D. candidate at [Harvard University](https://www.seas.harvard.edu) working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#). Previously, I was a Student Researcher at [Google DeepMind](https://deepmind.google/) in the Gemini Safety Team and an AI Research Scientist Intern at [IBM Research](https://research.ibm.com/) in the IBM T.J. Watson Research Center.
+I am an Applied Mathematics Ph.D. candidate at [Harvard University](https://www.seas.harvard.edu) working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#). Previously, I was a Student Researcher at [Google DeepMind](https://deepmind.google/) and an AI Research Scientist Intern at [IBM Research](https://research.ibm.com/) in the IBM T.J. Watson Research Center.
 
 I use theoretical insights to develop safe and trustworthy AI and ML systems. My research is driven by the belief that AI and ML systems should not only be accurate and efficient but also transparent, fair, and aligned with human values and societal norms. My research is supported by the [2024 Apple Scholars in AI/ML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) Fellowship.
 
@@ -18,10 +18,18 @@ Before joining Harvard, I earned an M.S. in Computational Mathematics and Modeli
 
 ## Recent papers
 <span style="color: FireBrick"> 
+April 2025 - Our paper [AI Alignment at Your Discretion](https://arxiv.org/abs/2502.10441) was accepted at ACM FAccT 2025! Our work also got the [Best Paper Award](https://nenlp.github.io/spr2025/accepted_work.html) at the New England NLP workshop!
+</span> \
+<span style="font-size:15px">
+Our method discovers the values that annotators (humans & LLMs) prioritize using pairwise preferences!
+We show that the values LLMs prioritize differ from those of human annotators. 
+</span> 
+
+<span style="color: FireBrick"> 
 September 2024 - Our paper [Selective Explanations](https://openreview.net/pdf?id=gHCFduRo7o) was accepted at NeurIPS!
 </span> \
 <span style="font-size:15px">
-We introduce Selective Explanations, a method to generate fast and accurate explanations for the predictions of large models. Selective Explanations was developped with an eye towards the explanations of generative language model like the one we proposed in [MExGen](https://arxiv.org/abs/2403.14459).
+We introduce Selective Explanations, a method for generating fast and accurate explanations for the predictions of large models. Selective Explanations was developed with an eye towards explaining generative language models like the one we proposed in [MExGen](https://arxiv.org/abs/2403.14459).
 </span> 
 
 <span style="color: FireBrick"> 
