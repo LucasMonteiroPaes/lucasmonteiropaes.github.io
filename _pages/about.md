@@ -15,7 +15,7 @@ I am an Applied Mathematics Ph.D. candidate at [Harvard University](https://www.
 
 I use theoretical insights to develop safe and trustworthy AI and ML systems. My research is driven by the belief that AI and ML systems should not only be accurate and efficient but also transparent, fair, and aligned with human values and societal norms. My research is supported by the [2024 Apple Scholars in AI/ML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) Fellowship.
 
-Before joining Harvard, I earned an M.S. in Computational Mathematics and Modeling from Instituto de Matemática Pura e Aplicada ([IMPA](https://impa.br/en_US/)), a beautiful mathematics institute in the [Tijuca National Park](https://en.wikipedia.org/wiki/Tijuca_National_Park) in Rio de Janeiro, Brazil. You can find my CV [here](../files/LucasMP_CV.pdf).
+Before joining Harvard, I earned an M.S. in Computational Mathematics and Modeling from Instituto de Matemática Pura e Aplicada ([IMPA](https://impa.br/en_US/)), a beautiful mathematics institute in the [Tijuca National Park](https://en.wikipedia.org/wiki/Tijuca_National_Park) in Rio de Janeiro, Brazil.
 </div>
 
 ## Recent papers
