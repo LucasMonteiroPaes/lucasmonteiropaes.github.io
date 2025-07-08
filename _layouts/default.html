@@ -9,6 +9,12 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+  
+    <script>
+    // Check for saved theme preference or default to light
+    const currentTheme = localStorage.getItem('theme') || 'light';
+    document.documentElement.setAttribute('data-theme', currentTheme);
+    </script>
   </head>
 
   <body>
@@ -27,30 +33,19 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const themeToggle = document.getElementById('theme-toggle');
+      
+      themeToggle.addEventListener('click', function() {
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        
+        document.documentElement.setAttribute('data-theme', newTheme);
+        localStorage.setItem('theme', newTheme);
+      });
+    });
+    </script>
+
   </body>
 </html>
-
-<script>
-  // Check for saved theme preference or default to light
-  const currentTheme = localStorage.getItem('theme') || 'light';
-  document.documentElement.setAttribute('data-theme', currentTheme);
-</script>
-
-<button id="theme-toggle" class="theme-toggle">
-  <span class="theme-toggle-light">🌙</span>
-  <span class="theme-toggle-dark">☀️</span>
-</button>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const themeToggle = document.getElementById('theme-toggle');
-  
-  themeToggle.addEventListener('click', function() {
-    const currentTheme = document.documentElement.getAttribute('data-theme');
-    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-    
-    document.documentElement.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
-  });
-});
-</script>
