@@ -75,20 +75,18 @@
   width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
-
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
   }
-
   img {
     max-width: 125px;
-    border-radius: 15px;
-
+    border-radius: 6px; // Smaller radius for small screens
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
+      border-radius: 15px; // Larger radius for large screens
     }
   }
 }
