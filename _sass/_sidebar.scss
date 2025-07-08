@@ -81,7 +81,7 @@
     height: auto;
   }
   img {
-    max-width: 125px;
+    max-width: 200px;
     border-radius: 6px; // Smaller radius for small screens
     @include breakpoint($large) {
       padding: 5px;
