@@ -40,22 +40,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
-
-
-@media (min-width: 80em) {
-  .author__avatar {
-    width: 80px;
-    height: 80px;
-  }
-
-  .author__avatar img {
-    max-width: 175px;
-    /* change this: */
-    border-radius: 8px;   /* ← rectangle with 8px rounded corners */
-    padding: 5px;
-    border: 1px solid $border-color;
-  }
-}
