@@ -29,3 +29,15 @@ layout: compress
 
   </body>
 </html>
+
+<script>
+  // Check for saved theme preference or default to light
+  const currentTheme = localStorage.getItem('theme') || 'light';
+  document.documentElement.setAttribute('data-theme', currentTheme);
+</script>
+
+<!-- Add this toggle button somewhere in your sidebar or header -->
+<button id="theme-toggle" class="theme-toggle">
+  <span class="theme-toggle-light">🌙</span>
+  <span class="theme-toggle-dark">☀️</span>
+</button>
