@@ -1,0 +1,54 @@
+// Theme toggle button
+.theme-toggle {
+  background: none;
+  border: 2px solid #4169E1;
+  border-radius: 50%;
+  padding: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background: rgba(65, 105, 225, 0.1);
+  }
+}
+
+// Hide/show toggle icons based on theme
+[data-theme="light"] .theme-toggle-dark { display: none; }
+[data-theme="dark"] .theme-toggle-light { display: none; }
+
+// Dark theme variables
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --sidebar-bg: #f8f9fa;
+  --border-color: #e9ecef;
+  --link-color: #4169E1;
+}
+
+[data-theme="dark"] {
+  --bg-color: #1a1a1a;
+  --text-color: #e0e0e0;
+  --sidebar-bg: #2d2d2d;
+  --border-color: #404040;
+  --link-color: #6fa8f5;
+}
+
+// Apply theme variables
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.sidebar {
+  background-color: var(--sidebar-bg);
+}
+
+.author__avatar img {
+  border-color: var(--border-color);
+}
+
+a {
+  color: var(--link-color);
+}
