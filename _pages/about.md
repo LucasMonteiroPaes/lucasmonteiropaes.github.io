@@ -22,8 +22,13 @@ August 2025 - Our paper [MExGen: Multi-Level Explanations for Generative Languag
 MExGen was open-sourced by IBM Research in the [ICX360 toolkit](https://github.com/IBM/ICX360)!
 </span> \
 <span style="font-size:15px">
-Our method discovers the values that annotators (humans & LLMs) prioritize using pairwise preferences!
-We show that the values LLMs prioritize differ from those of human annotators. 
+Have you ever wondered what parts of the input context (such as retrieved items from RAG) influenced the LLM's response?
+
+We have! Especially when:
+• Providing a long input to an LLM (like a meeting transcript) and using it to get a generated output (like a to-do list)
+• Performing retrieved augmented generation (RAG)
+
+MExGen answers this by efficiently attributing model outputs to parts of the input context that were responsible for the model prediction.
 </span>
 
 <span style="color: FireBrick"> 
