@@ -18,6 +18,15 @@ Before joining Harvard, I earned an M.S. in Computational Mathematics and Modeli
 
 ## Recent papers
 <span style="color: FireBrick"> 
+August 2025 - Our paper [MExGen: Multi-Level Explanations for Generative Language Models](https://aclanthology.org/2025.acl-long.1553/) was selected as [Oral at ACL](https://drive.google.com/file/d/1lIrLnVdPv6yDrrlZ2ZgHwaPYq9zx-u0d/view)! 
+MExGen was open-sourced by IBM Research in the [ICX360 toolkit](https://github.com/IBM/ICX360)!
+</span> \
+<span style="font-size:15px">
+Our method discovers the values that annotators (humans & LLMs) prioritize using pairwise preferences!
+We show that the values LLMs prioritize differ from those of human annotators. 
+</span>
+
+<span style="color: FireBrick"> 
 April 2025 - Our paper [AI Alignment at Your Discretion](https://arxiv.org/abs/2502.10441) was accepted at ACM FAccT 2025! Our work also got the [Best Paper Award](https://nenlp.github.io/spr2025/accepted_work.html) at the New England NLP workshop!
 </span> \
 <span style="font-size:15px">
