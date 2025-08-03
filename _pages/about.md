@@ -18,17 +18,10 @@ Before joining Harvard, I earned an M.S. in Computational Mathematics and Modeli
 
 ## Recent papers
 <span style="color: FireBrick"> 
-August 2025 - Our paper [MExGen: Multi-Level Explanations for Generative Language Models](https://aclanthology.org/2025.acl-long.1553/) was selected as [Oral at ACL](https://drive.google.com/file/d/1lIrLnVdPv6yDrrlZ2ZgHwaPYq9zx-u0d/view)! 
-MExGen was open-sourced by IBM Research in the [ICX360 toolkit](https://github.com/IBM/ICX360)!
+August 2025 - Our paper [MExGen: Multi-Level Explanations for Generative Language Models](https://aclanthology.org/2025.acl-long.1553/) was selected as [Oral at ACL](https://drive.google.com/file/d/1lIrLnVdPv6yDrrlZ2ZgHwaPYq9zx-u0d/view)!
 </span> \
 <span style="font-size:15px">
-Have you ever wondered what parts of the input context (such as retrieved items from RAG) influenced the LLM's response?
-
-We have! Especially when:
-• Providing a long input to an LLM (like a meeting transcript) and using it to get a generated output (like a to-do list)
-• Performing retrieved augmented generation (RAG)
-
-MExGen answers this by efficiently attributing model outputs to parts of the input context that were responsible for the model prediction.
+Have you ever wondered what parts of the input context (such as retrieved items from RAG) influenced the LLM's response? MExGen answers this by efficiently attributing model outputs to parts of the input context that were responsible for the model prediction. MExGen was open-sourced by IBM Research in the [ICX360 toolkit](https://github.com/IBM/ICX360)!
 </span>
 
 <span style="color: FireBrick"> 
